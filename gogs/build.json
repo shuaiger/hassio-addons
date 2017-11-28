@@ -1,6 +1,0 @@
-{
-  "build_from": {
-    "armhf": "gogs/gogs-rpi:latest",
-    "amd64": "gogs/gogs:latest"
-  }
-}

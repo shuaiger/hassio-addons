@@ -1,9 +1,9 @@
 {
   "name": "HA Bridge",
-  "version": "4.5.6p3",
+  "version": "5.0.0",
   "slug": "ha-bridge",
   "description": "HA Bridge - Hue Emulator (https://github.com/bwssytems/ha-bridge)",
-  "url": "https://github.com/notoriousbdg/hassio-addons/tree/master/ha-bridge",
+  "url": "https://github.com/shuaiger/hassio-addons/tree/master/ha-bridge",
   "webui": "http://[HOST]:[PORT:80]",
   "arch": [
     "armhf",
